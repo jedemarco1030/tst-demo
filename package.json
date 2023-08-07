@@ -2,7 +2,7 @@
   "name": "tst-demo",
   "version": "0.1.0",
   "homepage": "https://jedemarco1030.github.io/tst-demo",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
